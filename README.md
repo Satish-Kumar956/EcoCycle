@@ -1,0 +1,2 @@
+# EcoCycle
+Wastage Management
